@@ -1,6 +1,6 @@
 ESPAÑOL
 
-## 👋 Hola, soy KennnOficial
+## 👋 Hola, soy Kennet Montiel
 
 🚀 Desarrollador enfocado en soluciones reales  
 Especialista en plugins de Minecraft, bots de Discord y automatización.
@@ -13,11 +13,11 @@ Especialista en plugins de Minecraft, bots de Discord y automatización.
 ### 🧠 Enfoque
 Código limpio, proyectos terminados y soluciones que sí se usan.
 
-📩 Contacto: Discord — KennnOficial
+📩 Contacto: Discord — wM0ntiel
 
 INGLES
 
-## 👋 Hi, I'm KennnOficial
+## 👋 Hi, I'm Kennet Montiel
 
 🚀 Developer focused on real-world solutions.  
 Specialized in Minecraft plugins, Discord bots, and automation.
@@ -30,4 +30,4 @@ Specialized in Minecraft plugins, Discord bots, and automation.
 ### 🧠 My approach
 Clean code, finished projects, and systems ready for production.
 
-📩 Contact: Discord — KennnOficial
+📩 Contact: Discord — wM0ntiel
